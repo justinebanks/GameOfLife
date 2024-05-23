@@ -1,0 +1,28 @@
+
+body {
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+}
+
+canvas {
+	border: 2px solid white;
+}
+
+
+p {
+	position: absolute;
+	color: white;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+#generation {
+	bottom: 20px;
+	left: 20px;
+}
+
+#population {
+	bottom: 60px;
+	left: 20px;
+}
